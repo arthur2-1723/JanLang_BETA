@@ -44,5 +44,5 @@ Saída: 16 (2 elevado a 4)<br>
 Funcionamento:
 Cada comando é identificado a partir dos primeiros caracteres da linha recebida (cmd). Dependendo do prefixo encontrado, o código direciona para a respectiva função que realiza a operação matemática ou de impressão.</p><br>
 
-<h2>Clique no link abaixo para baixar o instalador</h2>
-<a href="https://drive.usercontent.google.com/download?id=1IviXggrP7MAdDz3qKc_36JCfQcFNVY3c&export=download">Baixar Instalador</a>
+<h2>Clique no link abaixo para acessar nosso site</h2>
+<a href="https://jan-lang-beta.vercel.app">Acessar Site</a>
