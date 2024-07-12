@@ -1,44 +1,44 @@
 # Linguagem de programação JanLang <br>
 <p>print<br>
-Descrição: Imprime na saída o texto após o comando print.
-Exemplo de Uso: print Hello, World!
-Saída: Hello, World!
+Descrição: Imprime na saída o texto após o comando print.<br>
+Exemplo de Uso: print Hello, World!<br>
+Saída: Hello, World!<br>
 
 add<br>
-Descrição: Realiza a adição entre dois números.
-Formato: add num1 num2
-Exemplo de Uso: add 5 3
-Saída: 8
+Descrição: Realiza a adição entre dois números.<br>
+Formato: add num1 num2<br>
+Exemplo de Uso: add 5 3<br>
+Saída: 8<br>
 
 subtract<br>
-Descrição: Realiza a subtração entre dois números.
-Formato: subtract num1 num2
-Exemplo de Uso: subtract 10 4
-Saída: 6
+Descrição: Realiza a subtração entre dois números.<br>
+Formato: subtract num1 num2<br>
+Exemplo de Uso: subtract 10 4<br>
+Saída: 6<br>
 
 multiply<br>
-Descrição: Realiza a multiplicação entre dois números.
-Formato: multiply num1 num2
-Exemplo de Uso: multiply 6 7
-Saída: 42
+Descrição: Realiza a multiplicação entre dois números.<br>
+Formato: multiply num1 num2<br>
+Exemplo de Uso: multiply 6 7<br>
+Saída: 42<br>
 
 divide<br>
-Descrição: Realiza a divisão entre dois números.
-Formato: divide num1 num2
-Exemplo de Uso: divide 20 5
-Saída: 4
+Descrição: Realiza a divisão entre dois números.<br>
+Formato: divide num1 num2<br>
+Exemplo de Uso: divide 20 5<br>
+Saída: 4<br>
 
 modulus<br>
-Descrição: Calcula o resto da divisão entre dois números (módulo).
-Formato: modulus num1 num2
-Exemplo de Uso: modulus 17 5
-Saída: 2 (resto da divisão de 17 por 5)
+Descrição: Calcula o resto da divisão entre dois números (módulo).<br>
+Formato: modulus num1 num2<br>
+Exemplo de Uso: modulus 17 5<br>
+Saída: 2 (resto da divisão de 17 por 5)<br>
 
 power<br>
-Descrição: Calcula a potência de um número.
-Formato: power base expoente
-Exemplo de Uso: power 2 4
-Saída: 16 (2 elevado a 4)
+Descrição: Calcula a potência de um número.<br>
+Formato: power base expoente<br>
+Exemplo de Uso: power 2 4<br>
+Saída: 16 (2 elevado a 4)<br>
 <br>
 
 Funcionamento:
