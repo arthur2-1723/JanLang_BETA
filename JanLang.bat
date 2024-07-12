@@ -125,6 +125,5 @@ for /f "tokens=2,3" %%a in ("!cmd!") do (
     echo !result!
 )
 goto :eof
-
 :eof
 exit /b
