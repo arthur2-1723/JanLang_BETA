@@ -40,5 +40,6 @@ Formato: power base expoente
 Exemplo de Uso: power 2 4
 Saída: 16 (2 elevado a 4)
 <br>
+
 Funcionamento:
 Cada comando é identificado a partir dos primeiros caracteres da linha recebida (cmd). Dependendo do prefixo encontrado, o código direciona para a respectiva função que realiza a operação matemática ou de impressão.</p>
