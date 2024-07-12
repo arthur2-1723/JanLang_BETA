@@ -1,16 +1,24 @@
 # Linguagem de programação JanLang
 <h2>Códigos</h2>
 <p>print
-
-Descrição: Imprime na saída o texto após o comando print.
+Imprime na saída o texto após o comando print.
 Exemplo de Uso: print Hello, World!
 Saída: Hello, World!
+<<<<<<< HEAD
 
 add
 Descrição: Realiza a adição entre dois números.
 Formato: add num1 num2
 Exemplo de Uso: add 5 3
 Saída (Do exemplo): 8
+=======
+  
+add
+Realiza a adição entre dois números.
+Formato: add num1 num2
+Exemplo de Uso: add 5 3
+Saída: 8
+>>>>>>> 30ee1818d4da490f9f3a8307784a0d174786a090
 
 subtract
 Descrição: Realiza a subtração entre dois números.
